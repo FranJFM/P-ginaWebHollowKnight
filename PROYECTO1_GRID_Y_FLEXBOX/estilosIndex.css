@@ -136,6 +136,7 @@ aside hr {
 
 footer {
   text-align: center;
+  color:white;
 }
 
 @media (min-width: 768px) {
